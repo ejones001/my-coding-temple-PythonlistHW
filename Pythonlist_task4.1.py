@@ -8,4 +8,4 @@ for i in range(len(students)):
     if grades[i] >= 80:
         students_approved.append(students[i])
 
-print("Students approved:", students_approved)
+
